@@ -12,5 +12,6 @@ public class Hero extends Person {
     public String toString(){
         return super.toString()+this.power;
 
+
     }
 }
